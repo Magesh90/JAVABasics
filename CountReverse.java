@@ -21,6 +21,8 @@ public class CountReverse {
 	}
 	
 	public static void main(String[] args){
-		count("CountThis");
+
+count("Master");
+>>>>>>> e59deb60b9e80ab962c9e2b6f2116ae3a88c58d0
 	}
 }
