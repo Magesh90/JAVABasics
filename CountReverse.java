@@ -21,6 +21,10 @@ public class CountReverse {
 	}
 	
 	public static void main(String[] args){
+<<<<<<< HEAD
 		count("Master");
+=======
+		count("JavaBasics");
+>>>>>>> 7aea7298da16d3fb9e78cc6797d942ffaf812045
 	}
 }
