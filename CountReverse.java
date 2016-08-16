@@ -21,7 +21,13 @@ public class CountReverse {
 	}
 	
 	public static void main(String[] args){
+<<<<<<< HEAD
 		count("azarlocal");
+=======
+
+count("Hotfix");
+
+>>>>>>> bba13528adce05ac5eb82850d8b8aa310fdb60af
 	}
 
 //this is a file azar is maintaining.
