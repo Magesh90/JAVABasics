@@ -21,6 +21,8 @@ public class CountReverse {
 	}
 	
 	public static void main(String[] args){
-		count("Master");
+		count("azarlocal");
 	}
+
+//this is a file azar is maintaining.
 }
