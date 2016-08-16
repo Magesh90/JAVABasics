@@ -21,6 +21,6 @@ public class CountReverse {
 	}
 	
 	public static void main(String[] args){
-		count("Master");
+		count("Will try to push from hotfix");
 	}
 }
