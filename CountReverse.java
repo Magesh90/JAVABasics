@@ -23,14 +23,12 @@ public class CountReverse {
 	public static void main(String[] args){
 
 
-count("Hotfix");
+count("Added sshkey-testing it");
 
-<<<<<<< HEAD
 
 }
-=======
+
 	}
 
-//this is a file azar is maintaining.
->>>>>>> 9a68a7ae2c5139a2f7cd8a2b9c147743efd32905
+
 }
